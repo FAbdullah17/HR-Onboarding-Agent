@@ -1,0 +1,10 @@
+task_name,description,due_in_days,due_date,assigned_to,category
+Complete Employee Information Form,Please fill out the employee information form with your personal and professional details.,3,2025-07-09,Fahad Abdullah,HR
+Set up Company Email and Tools,Please set up your company email account and familiarize yourself with our company tools and software.,5,2025-07-11,Fahad Abdullah,IT
+Meet with Team Lead for Project Overview,"Meet with your team lead to discuss the project overview, goals, and expectations.",7,2025-07-13,Fahad Abdullah,Team
+Review Company Policies and Handbook,Please review the company policies and handbook to understand our company culture and procedures.,10,2025-07-16,Fahad Abdullah,HR
+Complete Training Modules,Please complete the training modules provided by our company to get familiar with our software and tools.,15,2025-07-21,Fahad Abdullah,IT
+Meet with IT Team for Technical Setup,"Meet with the IT team to discuss your technical setup, including your workstation and software installation.",17,2025-07-23,Fahad Abdullah,IT
+Start Working on Project Tasks,Start working on your project tasks and deliverables as assigned by your team lead.,20,2025-07-26,Fahad Abdullah,Project
+Meet with Manager for Progress Update,"Meet with your manager to discuss your progress, goals, and any challenges you're facing.",25,2025-07-31,Fahad Abdullah,Manager
+Complete Performance Goals Form,Please complete the performance goals form to set your goals and objectives for the next quarter.,30,2025-08-05,Fahad Abdullah,HR

@@ -1,0 +1,4 @@
+openai 
+pymupdf 
+docx2txt
+dotenv
